@@ -2,7 +2,7 @@
   "name": "mysite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JimmyLemieux.github.io/Jxmmy",
+  "homepage": "http://JimmyLemieux.github.io/Jxmmy.git",
   "dependencies": {
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
