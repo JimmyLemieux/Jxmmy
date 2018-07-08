@@ -1,0 +1,17 @@
+.navbar {
+  border-radius: 0px;
+  z-index: 1;
+  background-color: black;
+}
+.navbar-brand {
+  font-size: 20px;
+  padding-right: 50px;
+  border-radius: 0px;
+  color: black;
+}
+.nav navbar-nav {
+  float:right;
+}
+.container {
+  margin-left: 20px;
+}
